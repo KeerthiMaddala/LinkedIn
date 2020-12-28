@@ -1,0 +1,20 @@
+body{
+	background-color: white;
+}
+.frst{
+	background-color: #483D8B;
+}
+.second{
+	width:65%;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.third{
+	background-color: white;
+	padding-top: 40px;
+	margin-top: 40px;
+	margin-left: 90px;
+	margin-right: 400px;
+	height: 520px;
+	border: 2px solid #DBDBDB;
+}
